@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<themename>BlueFrameworkMorph</themename>
+<themeversion>1.0</themeversion>
+<screenshot></screenshot>
+<author>britoso</author>
+<authorweblink></authorweblink>
+<phone>NexusOne</phone>
+<rom>NEXUS CM6.1.x</rom>
+<themedescription>Morph that replaces al the framework icons with blue versions</themedescription>
+
+<item>framework-res.apk</item>
+<path>/system/framework/</path>
+<description>(Requires Reboot)</description>
+
+<notes>
+</notes>
