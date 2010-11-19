@@ -7,7 +7,11 @@
 <authorweblink></authorweblink>
 <phone>NexusOne</phone>
 <rom>NEXUS CM6.1.x</rom>
-<themedescription>Morph that replaces al the framework icons with blue versions</themedescription>
+<themedescription>Morph that replaces all the OS icons with blue versions</themedescription>
+
+<item>Settings.apk</item>
+<path>/system/app/</path>
+<description>Settings Icons, some menu icons</description>
 
 <item>framework-res.apk</item>
 <path>/system/framework/</path>
