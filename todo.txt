@@ -1,0 +1,2 @@
+overlay circle still red (notification count)
+Progress bar better blue
