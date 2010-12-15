@@ -1,2 +1,5 @@
 overlay circle still red (notification count)
 Progress bar better blue
+
+status_bar_item_background_normal.9.png  blue trans (this is the inactive version)
+title_bar_medium.9.png trans  (this is the title bg, "ongoing")
