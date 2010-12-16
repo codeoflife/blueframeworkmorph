@@ -11,7 +11,11 @@
 
 <item>Settings.apk</item>
 <path>/system/app/</path>
-<description>Settings Icons, some menu icons</description>
+<description>Settings Icons, some menu icons</description
+
+<item>Vending.apk</item>
+<path>/system/app/</path>
+<description>market</description>
 
 <item>framework-res.apk</item>
 <path>/system/framework/</path>
